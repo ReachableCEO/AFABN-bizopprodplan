@@ -5,7 +5,7 @@
 - TX non profit corporation with intent to become education 501c3
 - Education 501c3 (AFABN/FNF)
 
-## Links to show how this plan gets reduced to practice
+## Reduction to practice
 
 - [GIT Organization](https://git.knownelement.com/org/AFABN/dashboard)
 - [Discourse category](https://community.turnsys.com/c/commons/afabn/5)
