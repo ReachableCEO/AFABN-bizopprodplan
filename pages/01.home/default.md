@@ -1,3 +1,8 @@
+---
+title: 'Americans For A Better Network(AFABN)/ The Free Network Foundation (FNF) - Business/Operations/Product Plan - Introduction'
+menu: 'Americans For A Better Network(AFABN)/ The Free Network Foundation (FNF) - Business/Operations/Product Plan - Introduction'
+---
+
 # Americans For A Better Network(AFABN)/ The Free Network Foundation (FNF) - Business/Operations/Product Plan - Introduction
 
 ## Executive Summary for AFABN/FNF
